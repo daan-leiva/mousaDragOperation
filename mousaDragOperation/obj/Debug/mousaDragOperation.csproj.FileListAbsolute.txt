@@ -1,0 +1,9 @@
+c:\users\researchbeast\documents\visual studio 2015\Projects\mousaDragOperation\mousaDragOperation\bin\Debug\mousaDragOperation.exe.config
+c:\users\researchbeast\documents\visual studio 2015\Projects\mousaDragOperation\mousaDragOperation\bin\Debug\mousaDragOperation.exe
+c:\users\researchbeast\documents\visual studio 2015\Projects\mousaDragOperation\mousaDragOperation\bin\Debug\mousaDragOperation.pdb
+c:\users\researchbeast\documents\visual studio 2015\Projects\mousaDragOperation\mousaDragOperation\obj\Debug\mousaDragOperation.csprojResolveAssemblyReference.cache
+c:\users\researchbeast\documents\visual studio 2015\Projects\mousaDragOperation\mousaDragOperation\obj\Debug\mousaDragOperation.Form1.resources
+c:\users\researchbeast\documents\visual studio 2015\Projects\mousaDragOperation\mousaDragOperation\obj\Debug\mousaDragOperation.Properties.Resources.resources
+c:\users\researchbeast\documents\visual studio 2015\Projects\mousaDragOperation\mousaDragOperation\obj\Debug\mousaDragOperation.csproj.GenerateResource.Cache
+c:\users\researchbeast\documents\visual studio 2015\Projects\mousaDragOperation\mousaDragOperation\obj\Debug\mousaDragOperation.exe
+c:\users\researchbeast\documents\visual studio 2015\Projects\mousaDragOperation\mousaDragOperation\obj\Debug\mousaDragOperation.pdb
